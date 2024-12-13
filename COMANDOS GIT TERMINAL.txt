@@ -1,0 +1,19 @@
+git init
+
+git status
+
+git add .
+
+git commit -m "commit inicial"
+
+git remote add origin https://github.com/andeson01/ATV6.js---PWEB.git
+
+git push --set-upstream origin master
+
+------------novas atualizações
+
+git add .
+
+git commit -m "(atualização)"
+
+git push
